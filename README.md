@@ -1,1 +1,3 @@
 # GUI-Calculator
+
+# This is a simple calculator...More functions will be added later ...
